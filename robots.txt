@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://yelsboyo.github.io/Mytri/sitemap.xml
